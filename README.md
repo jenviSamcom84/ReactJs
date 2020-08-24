@@ -4,7 +4,7 @@ This project was bootstrapped with [Create React Apps](https://github.com/facebo
 
 In the project directory, you can run:
 
-### 
-cd project
+### ubuntu system
+cd project,
 npm i,
 npm start
